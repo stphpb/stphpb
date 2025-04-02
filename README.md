@@ -3,6 +3,7 @@
 Junior UX/UI Designer passionate about creating intuitive and user-friendly interfaces. <br> Eager to learn and grow in the field of design, with a focus on delivering impactful digital experiences
 Ux & Ui interface design <br>
 
+![image alt](https://github.com/stphpb/stphpb/blob/main/Captura%20de%20pantalla%202025-04-02%20113537.png?raw=true)
 <!--
 **stphpb/stphpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
